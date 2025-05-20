@@ -1,0 +1,9 @@
+{
+	"name": "practicekapiladf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18faf4e4-6ca4-46fc-9a39-2f3a35666268",
+		"tenantId": "02bc5a95-1a86-431c-a591-fc1280d0e73b"
+	}
+}
